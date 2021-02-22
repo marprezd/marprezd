@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marprezd
 - 👀 I’m interested in in data science/data analysis, machine learning, and artificial intelligence to solve real-world problems.
-- 🌱 I’m currently learning Software Engineering and Data scientists.
+- 🌱 I’m currently learning Software Engineering and Data Science.
 - 💞️ I’m looking to collaborate in the design, implementation, and maintenance of RESTful APIs using Django, Django Rest Framework, MongoDB, PostgreSQL, Docker, 
 or Kubernetes. Also, I'm interested in collaborating on projects related to advanced Data Science, analytics, and Machine Learning with Python/Julia.
 
