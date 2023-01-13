@@ -9,12 +9,7 @@ or Kubernetes. Also, I'm interested in collaborating on projects related to adva
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marprezd&hide=Mako&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marprezd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
 
-<!---<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>--->
+<!---![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME)--->
 
 <!---
 marprezd/marprezd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
